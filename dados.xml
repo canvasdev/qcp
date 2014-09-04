@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<all-cars>
+	<carro id-categoria="KA">
+		<versao id-carro="1.0L FLEX">
+			<revisao id-revisao="1">
+				<preco>4x R$ 56,00 - à vista R$ 224,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 68,00 - à vista R$ 272,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar, Filtro Separador</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 98,00 - à vista R$ 392,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 222,00 - à vista R$ 888,00</preco>
+				<servico>Óleo 5w30, Fluido de Freio, fluido de radiador, Filtro de ar, Filtro de Combustível, Filtro de Óleo, Filtro do tubo de enchimento, Filtro Separador, velas de ignição</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 110,00 - à vista R$ 440,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 134,00 - à vista R$ 536,00</preco>
+				<servico>Óleo 5W30, Filtro de Separador, Filtro de Ar, Filtro de Combustível, Filtro de Óleo</servico>
+			</revisao>
+		</versao>
+		<versao id-carro="Sport 1.6L">
+			<revisao id-revisao="1">
+				<preco></preco>
+				<servico></servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 68,00 - à vista R$ 272,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar, Filtro Separador</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 98,00 - à vista R$ 392,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 222,00 - à vista R$ 888,00</preco>
+				<servico>Óleo 5w30, Fluido de Freio, fluido de radiador, Filtro de ar, Filtro de Combustível, Filtro de Óleo, Filtro Separador, velas de ignição</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 110,00 - à vista R$ 440,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 134,00 - à vista R$ 536,00</preco>
+				<servico>Óleo 5W30, Filtro de Separador, Filtro de ar, Filtro de Óleo</servico>
+			</revisao>
+		</versao>
+	</carro>
+	<carro id-categoria="FIESTA ROCAM">
+		<versao id-carro="1.0L FLEX">
+			<revisao id-revisao="1">
+				<preco>4x R$ 56,00 - à vista R$ 224,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 80,00 - à vista R$ 320,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar, Filtro Separador</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 109,00 - à vista R$ 436,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 218,00 - à vista R$ 872,00</preco>
+				<servico>Óleo 5w30, Fluido de Freio, fluido de radiador, Filtro de Óleo, Filtro de ar, Filtro Separador, Filtro de Combustível, velas de ignição</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 121,00 - à vista R$ 484,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 157,00 - à vista R$ 628,00</preco>
+				<servico>Óleo 5w30, Filtro de Óleo, Filtro de Combustível, Filtro de ar, Filtro Separador</servico>
+			</revisao>
+		</versao>
+		<versao id-carro="1.6L FLEX">
+			<revisao id-revisao="1">
+				<preco>4x R$ 56,00 - à vista R$ 224,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 80,00 - à vista R$ 320,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar, Filtro Separador</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 109,00 - à vista R$ 436,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 218,00 - à vista R$ 872,00</preco>
+				<servico>Óleo 5w30, Fluido de Freio, fluido de radiador, Filtro de Óleo, Filtro de ar, Filtro Separador, Filtro de Combustível, velas de ignição</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 121,00 - à vista R$ 484,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 157,00 - à vista R$ 628,00</preco>
+				<servico>Óleo 5W30, Filtro de Separador, Filtro de Combustível, Filtro de Óleo, Filtro de Ar</servico>
+			</revisao>
+		</versao>
+	</carro>
+	<carro id-categoria="NEW FIESTA">
+		<versao id-carro="1.5L">
+			<revisao id-revisao="1">
+				<preco>4x R$ 56,00 - à vista R$ 224,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 80,00 - à vista R$ 320,0</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar, Filtro Separador</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 109,00 - à vista R$ 436,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 218,00 - à vista R$ 872,00</preco>
+				<servico>Óleo 5W30, Fluido de Freio, Filtro de Óleo, Filtro de Combustível, Filtro Separador, Filtro de ar, Filtro Pólen, velas de ignição</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 121,00 - à vista R$ 484,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 157,00 - à vista R$ 628,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro Separador, Filtro de ar, Filtro de Combustível</servico>
+			</revisao>
+		</versao>
+		<versao id-carro="1.6L (2013)">
+			<revisao id-revisao="1">
+				<preco>4x R$ 56,00 - à vista R$ 224,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 80,00 - à vista R$ 320,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar, Filtro Separador</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 109,00 - à vista R$ 436,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 218,00 - à vista R$ 872,00</preco>
+				<servico>Óleo 5W30, Fluido de Freio, Filtro de Óleo, Filtro de Combustível, Filtro Separador, Filtro de ar, Filtro Pólen, velas de ignição</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 121,00 - à vista R$ 484,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 157,00 - à vista R$ 628,00</preco>
+				<servico>Óleo 5W30, Filtro de Combustível, Filtro de Óleo, Filtro de Ar, Filtro Separador</servico>
+			</revisao>
+		</versao>
+		<versao id-carro="1.6L (2014)">
+			<revisao id-revisao="1">
+				<preco>4x R$ 56,00 - à vista R$ 224,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 80,00 - à vista R$ 320,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar, Filtro Separador</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 109,00 - à vista R$ 436,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 218,00 - à vista R$ 872,00</preco>
+				<servico>Óleo 5W30, Fluido de Freio, Filtro de Óleo, Filtro de Combustível, Filtro Separador, Filtro de ar, Filtro Pólen, velas de ignição</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 121,00 - à vista R$ 484,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 157,00 - à vista R$ 628,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro Separador, Filtro de ar, Filtro de Combustível</servico>
+			</revisao>
+		</versao>
+	</carro>
+	<carro id-categoria="COURIER">
+		<versao id-carro="1.6L (FLEX)">
+			<revisao id-revisao="1">
+				<preco>4x R$ 56,00 - à vista R$ 224,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 62,00 - à vista R$ 248,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar, Filtro Separador</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 88,00 - à vista R$ 352,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 182,00 - à vista R$ 728,00</preco>
+				<servico>Óleo 5w30, Fluido de Freio, fluido de radiador, Filtro de Óleo, Filtro Separador, Filtro de Combustível, Filtro de ar, velas de ignição</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 98,00 - à vista R$ 392,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 114,00 - à vista R$ 456,00</preco>
+				<servico>Óleo 5W30, Filtro de Combustível, Filtro de Óleo, Filtro de Ar, Filtro Separador</servico>
+			</revisao>
+		</versao>
+	</carro>
+	<carro id-categoria="ECOSPORT">
+		<versao id-carro="1.6L FLEX (2012+)">
+			<revisao id-revisao="1">
+				<preco>4x R$ 64,00 - à vista R$ 256,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 99,00 - à vista R$ 396,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro Pólen, Filtro Separador, Filtro de ar</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 125,00 - à vista R$ 500,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 250,00 - à vista R$ 1000,00</preco>
+				<servico>Óleo 5W30, Fluido de Freio, Filtro de Óleo, Filtro de Combustível, Filtro de ar, Filtro Pólen, Filtro Separador, velas de ignição</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 140,00 - à vista R$ 560,00</preco>
+				<servico>Óleo 5W30, Fluido de Freio, Filtro de Óleo, Filtro de Combustível, Filtro de ar, Filtro Pólen, Filtro Separador, velas de ignição</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 140,00 - à vista R$ 560,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+		</versao>
+		<versao id-carro="2.0L FLEX (2012+)">
+			<revisao id-revisao="1">
+				<preco>4x R$ 64,00 - à vista R$ 256,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 99,00 - à vista R$ 396,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar, Filtro Pólen</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 125,00 - à vista R$ 500,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 250,00 - à vista R$ 1000,00</preco>
+				<servico>Óleo 5W30, Fluido de Freio, Filtro de Óleo, Filtro de Combustível, Filtro de ar, Filtro Pólen, velas de ignição</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 140,00 - à vista R$ 560,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 196,00 - à vista R$ 784,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro Pólen, Filtro de Combustível, Filtro de Ar</servico>
+			</revisao>
+		</versao>
+		<versao id-carro="1.6L FLEX (2012-)">
+			<revisao id-revisao="1">
+				<preco></preco>
+				<servico></servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 99,00 - à vista R$ 396,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar, Filtro Separador</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 125,00 - à vista R$ 500,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 250,00 - à vista R$ 1000,00</preco>
+				<servico>Óleo 5W30, Fluido de Freio, fluido de radiador, Filtro de ar, Filtro Separador, Filtro de Combustível, velas de ignição, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 140,00 - à vista R$ 560,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 196,00 - à vista R$ 784,00</preco>
+				<servico>Óleo 5W30, Filtro Separador, Filtro de Ar, Filtro de Combustível, Filtro de Óleo</servico>
+			</revisao>
+		</versao>
+		<versao id-carro="2.0L FLEX (2012-)">
+			<revisao id-revisao="1">
+				<preco></preco>
+				<servico></servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 99,00 - à vista R$ 396,00</preco>
+				<servico>Óleo 5W30, Filtro de ar, Filtro de Combustível, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 125,00 - à vista R$ 500,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 250,00 - à vista R$ 1000,00</preco>
+				<servico>Óleo 5W30, Fluido de Freio, fluido de radiador, Filtro de ar, Filtro de Combustível, velas de ignição, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 140,00 - à vista R$ 560,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 196,00 - à vista R$ 784,00</preco>
+				<servico>Óleo 5W30, Filtro de Combustível, Filtro de Óleo, Filtro de Ar</servico>
+			</revisao>
+		</versao>
+	</carro>
+	<carro id-categoria="FOCUS">
+		<versao id-carro="16.L FLEX">
+			<revisao id-revisao="1">
+				<preco>4x R$ 62,00 - à vista R$ 248,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 97,00 - à vista R$ 388,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de Ar, Filtro Separador</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 123,00 - à vista R$ 492,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 290,00 - à vista R$ 1160,00</preco>
+				<servico>Óleo 5W30, Fluido de Freio, fluido de radiador, Filtro de Óleo, Filtro de Combustível, Filtro de ar, velas de ignição, Filtro Separador, Filtro Pólen</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 137,00 - à vista R$ 548,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 187,00 - à vista R$ 748,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar, Filtro Separador</servico>
+			</revisao>
+		</versao>
+		<versao id-carro="2.0L FLEX">
+			<revisao id-revisao="1">
+				<preco>4x R$ 62,00 - à vista R$ 248,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 97,00 - à vista R$ 388,00</preco>
+				<servico>Óleo 5W30, Filtro de Ar, Filtro de Combustível, Filtro Separador, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 123,00 - à vista R$ 492,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 290,00 - à vista R$ 1160,00</preco>
+				<servico>Óleo 5W30, Fluido de Freio, fluido de radiador, Filtro de Óleo, Filtro de Combustível, Filtro de ar, velas de ignição, Filtro Separador, Filtro Pólen</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 137,00 - à vista R$ 548,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 187,00 - à vista R$ 748,00</preco>
+				<servico>Óleo 5W30, Filtro de Combustível, Filtro Separador, Filtro de Óleo</servico>
+			</revisao>
+		</versao>
+	</carro>
+	<carro id-categoria="NOVO FOCUS">
+		<versao id-carro="1.6L FLEX">
+			<revisao id-revisao="1">
+				<preco>4x R$ 62,00 - à vista R$ 248,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 97,00 - à vista R$ 388,00</preco>
+				<servico>Óleo 5W20, Filtro de Óleo, Filtro de Combustível, Filtro Pólen</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 123,00 - à vista R$ 492,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 290,00 - à vista R$ 1160,00</preco>
+				<servico>Óleo 5W20, Fluido de Freio, Filtro de Óleo, Filtro de Combustível, Filtro de ar, Filtro Separador, Filtro Pólen, velas de ignição</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 137,00 - à vista R$ 548,00</preco>
+				<servico>Óleo 5W20, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 187,00 - à vista R$ 748,00</preco>
+				<servico>Óleo 5W20, Filtro de Óleo, Filtro de Combustível, Filtro Pólen</servico>
+			</revisao>
+		</versao>
+		<versao id-carro="2.0L FLEX">
+			<revisao id-revisao="1">
+				<preco>4x R$ 62,00 - à vista R$ 248,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 97,00 - à vista R$ 388,00</preco>
+				<servico>Óleo 5W20, Filtro de Óleo, Filtro de Combustível, Filtro Pólen</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 123,00 - à vista R$ 492,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 290,00 - à vista R$ 1160,00</preco>
+				<servico>Óleo 5W20, Fluido de Freio, Filtro de Óleo, Filtro de Combustível, Filtro de ar, Filtro Separador, Filtro Pólen, velas de ignição</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 137,00 - à vista R$ 548,00</preco>
+				<servico>Óleo 5W20, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 187,00 - à vista R$ 748,00</preco>
+				<servico>Óleo 5W20, Filtro de Óleo, Filtro de Combustível, Filtro Pólen</servico>
+			</revisao>
+		</versao>
+	</carro>
+	<carro id-categoria="FUSION">
+		<versao id-carro="2.5L">
+			<revisao id-revisao="1">
+				<preco>4x R$ 72,00 - à vista R$ 288,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 105,00 - à vista R$ 420,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de ar</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 122,00 - à vista R$ 488,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 284,00 - à vista R$ 1136,00</preco>
+				<servico>Óleo 5W30, Fluido de Freio, fluido de radiador, Filtro de Óleo, Filtro de ar, Filtro Pólen</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 137,00 - à vista R$ 548,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 223,00 - à vista R$ 892,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de ar</servico>
+			</revisao>
+		</versao>
+		<versao id-carro="3.0L V6">
+			<revisao id-revisao="1">
+				<preco>4x R$ 72,00 - à vista R$ 288,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 105,00 - à vista R$ 420,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de ar</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 122,00 - à vista R$ 488,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 284,00 - à vista R$ 1136,00</preco>
+				<servico>Óleo 5W30, Fluido de Freio, fluido de radiador, Filtro de Óleo, Filtro de ar, Filtro Pólen</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 137,00 - à vista R$ 548,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 223,00 - à vista R$ 892,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de ar</servico>
+			</revisao>
+		</versao>
+		<versao id-carro="HYBRID">
+			<revisao id-revisao="1">
+				<preco>4x R$ 72,00 - à vista R$ 288,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 105,00 - à vista R$ 420,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 122,00 - à vista R$ 488,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 284,00 - à vista R$ 1136,00</preco>
+				<servico>Óleo 5W30, Fluido de Freio, fluido de radiador, Filtro de Óleo, Filtro Pólen</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 137,00 - à vista R$ 548,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 223,00 - à vista R$ 892,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo</servico>
+			</revisao>
+		</versao>
+	</carro>
+	<carro id-categoria="NEW FUSION">
+		<versao id-carro="2.5 FLEX">
+			<revisao id-revisao="1">
+				<preco>4x R$ 72,00 - à vista R$ 288,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 105,00 - à vista R$ 420,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 122,00 - à vista R$ 488,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 284,00 - à vista R$ 1136,00</preco>
+				<servico>Óleo 5W30, Fluido de Freio, filtro de combustível, Filtro de Óleo, Filtro de ar, Filtro Pólen</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 137,00 - à vista R$ 548,00</preco>
+				<servico>Óleo do motor, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 223,00 - à vista R$ 892,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar</servico>
+			</revisao>
+		</versao>
+		<versao id-carro="HYBRID">
+			<revisao id-revisao="1">
+				<preco>4x R$ 72,00 - à vista R$ 288,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 105,00 - à vista R$ 420,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de ar</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 122,00 - à vista R$ 488,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 284,00 - à vista R$ 1136,00</preco>
+				<servico>Óleo 5W30, Fluido de Freio, Filtro de Óleo, Filtro de ar, Filtro Pólen</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 137,00 - à vista R$ 548,00</preco>
+				<servico>Óleo do Motor, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 223,00 - à vista R$ 892,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de ar</servico>
+			</revisao>
+		</versao>
+		<versao id-carro="2.0L TGDi Turbo EcoBoost">
+			<revisao id-revisao="1">
+				<preco>4x R$ 72,00 - à vista R$ 288,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 105,00 - à vista R$ 420,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 122,00 - à vista R$ 488,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 284,00 - à vista R$ 1136,00</preco>
+				<servico>Óleo 5W30, Fluido de Freio, filtro de combustível Filtro de Óleo, Filtro de ar, Filtro Pólen</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 137,00 - à vista R$ 548,00</preco>
+				<servico>Óleo do motor, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 223,00 - à vista R$ 892,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar</servico>
+			</revisao>
+		</versao>
+	</carro>
+	<carro id-categoria="EDGE">
+		<versao id-carro="EDGE">
+			<revisao id-revisao="1">
+				<preco>4x R$ 72,00 - à vista R$ 288,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 105,00 - à vista R$ 420,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de ar, Filtro Pólen</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 122,00 - à vista R$ 488,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 284,00 - à vista R$ 1136,00</preco>
+				<servico>Óleo 5W30, Fluido de Freio, fluido de radiador, Filtro de Óleo, Filtro de ar, Filtro Pólen</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 137,00 - à vista R$ 548,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 223,00 - à vista R$ 892,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de ar, Filtro Pólen</servico>
+			</revisao>
+		</versao>
+	</carro>
+	<carro id-categoria="RANGER">
+		<versao id-carro="2.2L E 3.2L DIESEL">
+			<revisao id-revisao="1">
+				<preco>4x R$ 149,00 - à vista R$ 596,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 214,00 - à vista R$ 856,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 213,00 - à vista R$ 852,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar da ventilação interna</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 320,00 - à vista R$ 1280,00</preco>
+				<servico>Óleo 5W30, Fluido de Freio, Filtro de Óleo, Filtro de Combustível, Filtro de ar</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 238,00 - à vista R$ 952,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro Pólen</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 370,00 - à vista R$ 1480,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar, Filtro Pólen</servico>
+			</revisao>
+		</versao>
+		<versao id-carro="2.5L FLEX">
+			<revisao id-revisao="1">
+				<preco>4x R$ 149,00 - à vista R$ 596,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 214,00 - à vista R$ 856,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 213,00 - à vista R$ 852,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar da ventilação interna</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 320,00 - à vista R$ 1280,00</preco>
+				<servico>Óleo 5W30, Fluido de Freio, Filtro de Óleo, Filtro de Combustível, Filtro de ar</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 238,00 - à vista R$ 952,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro Pólen</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 370,00 - à vista R$ 1480,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível, Filtro de ar, Filtro Pólen</servico>
+			</revisao>
+		</versao>
+		<versao id-carro="2.3L GASOLINA">
+			<revisao id-revisao="1">
+				<preco></preco>
+				<servico></servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 73,00 - à vista R$ 292,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Ar</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 105,00 - à vista R$ 420,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 242,00 - à vista R$ 968,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Fluido de Freio, fluido de radiador, Filtro de Combustível, Filtro de Óleo, Filtro de ar</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 136,00 - à vista R$ 544,00</preco>
+				<servico>Óleo 5W30, Fluído Cambio, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$168,00 - à vista R$ 672,00</preco>
+				<servico>Óleo 5W30, Filtro de Óleo, Filtro de ar, Filtro de Combustível</servico>
+			</revisao>
+		</versao>
+		<versao id-carro="3.0L DIESEL">
+			<revisao id-revisao="1">
+				<preco></preco>
+				<servico></servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 204,00 - à vista R$ 816,00</preco>
+				<servico>Óleo 15W40, Filtro Comustível, Filtro de Óleo, Filtro de Ar</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 106,00 - à vista R$ 424,00</preco>
+				<servico>Óleo 15W40, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 379,00 - à vista R$ 1516,00</preco>
+				<servico>Óleo 15W30, Fluido de Freio, fluido de radiador, Filtro de Óleo, Filtro de Combustível Filtro de ar</servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 131,00 - à vista R$ 524,00</preco>
+				<servico>Óleo 15W40, Fluído Cambio, Filtro de Óleo</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 338,00 - à vista R$ 1352,00</preco>
+				<servico>Óleo 15W40, Filtro de Combustível, Filtro de Óleo, Filtro de Ar</servico>
+			</revisao>
+		</versao>
+	</carro>
+	<carro id-categoria="F-250">
+		<versao id-carro="F-250">
+			<revisao id-revisao="1">
+				<preco></preco>
+				<servico></servico>
+			</revisao>
+			<revisao id-revisao="2">
+				<preco>4x R$ 168,00 - à vista R$ 672,00</preco>
+				<servico>Óleo 15W40, Filtro de Óleo, Filtro de Combustível com Separador de água, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="3">
+				<preco>4x R$ 216,00 - à vista R$ 864,00</preco>
+				<servico>Óleo 15W40, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="4">
+				<preco>4x R$ 412,00 - à vista R$ 1648,00</preco>
+				<servico>Óleo 15W30, Fluido de Freio, fluido de radiador, Filtro de Óleo, Filtro de Combustível Separador de água, Filtro de Ar, Filtro de Combustível </servico>
+			</revisao>
+			<revisao id-revisao="5">
+				<preco>4x R$ 229,00 - à vista R$ 916,00</preco>
+				<servico>Óleo 15W40, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+			<revisao id-revisao="6">
+				<preco>4x R$ 271,00 - à vista R$ 1084,00</preco>
+				<servico>Óleo 15W40, Filtro de Óleo, Filtro de Combustível</servico>
+			</revisao>
+		</versao>
+	</carro>
+</all-cars>

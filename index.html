@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Forlan Ford - Agendamento de revisão</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/main.css">
+        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.1.js"><\/script>')</script>
+        <script src="js/main.js"></script>
+    </head>
+    <body>
+
+<!-- <div id="tela-carregamento">
+    <div id="logo-forlan"><img src="img/logo-forlan.svg"></div>
+</div>   -->      
+<div id="header">
+    <div id="header-area">
+        <div id="logo-forlan-spot">
+            <img src="img/logo-forlan.svg">
+            AGENDAMENTO PREMIUM DE REVISÃO
+        </div>
+        <div id="menu-label-1">AGENDAR REVISÃO<img src="img/seta-white.svg" class="button-options-seta"></div>
+    </div>
+</div>
+    
+
+<div id="section-01">
+    <div class="pelicula-black"></div>
+    <div class="pelicula-dots"></div>
+    <div id="background-01"></div>
+    <div id="text-under-section-01">MARQUE A REVISÃO DO SEU<br>FORD SEM SAIR DE CASA</div>
+    <div id="arrow-down"></div>
+</div>
+<div id="section-02">
+        <div id="select-carro" class="btn-2">AGENDAR MINHA REVISÃO</div>
+        <div id="opcoes-container">
+            <div id="carro-opt" class="option-container">
+                <!-- INSERT CARROS -->
+                <!-- INSERT CARROS [END] -->
+            </div>
+            <div id="revisao" class="options-container versao-selected blocos">
+                <div id="revisao-label">Revisão</div>
+                <div id="revisao-0" class="carro-option-revisao revisao-options">1ª Revisão</div>
+                <div id="revisao-1" class="carro-option-revisao revisao-options">2ª Revisão</div>
+                <div id="revisao-2" class="carro-option-revisao revisao-options">3ª Revisão</div>
+                <div id="revisao-3" class="carro-option-revisao revisao-options">4ª Revisão</div>
+                <div id="revisao-4" class="carro-option-revisao revisao-options">5ª Revisão</div>
+                <div id="revisao-5" class="carro-option-revisao revisao-options">6ª Revisão</div>
+            </div>
+            <div class="options-container preco preco-servico-hidden">
+                <div id="revisao-info"></div>
+                <div id="preco-parc" class="text-pre-rev"></div>
+                <div id="preco-vista" class="text-pre-rev"></div>
+            </div>
+            <div class="options-container servico preco-servico-hidden">
+                <div id="servico-esp" class="text-pre-rev"></div>
+            </div>
+        </div>
+        <div id="agendar-revisao" class="btn-1">AGENDAR MINHA REVISÃO</div>
+        <div id="escolher-outro-carro">X</div>
+</div>
+<div id="section-03">
+    <div class="pelicula-dots"></div>
+    <div id="background-02"></div>
+    <div id="formulario">
+        <form onSubmit="return validar();"  id="form" name="form" method="post" action="http://www.grupoocp.com.br/azzurra/">
+        <input type="hidden" name="linkResposta" id="linkResposta" value="http://fordbelohorizonte.com/qcp/homologacao" />
+        <input type="hidden" name="origem" id="origem" style="width:380px; color:#fff" value="Landing Page" />
+        <input type="hidden" name="veiculo" id="veiculo" style="width:380px; color:#fff" value="Agendadento premium de revisão" />
+        <input type="hidden" name="campanha" id="campanha" style="width:380px; color:#fff" value="Padrão" />
+        <input type="hidden" name="opcao" id="opcao" value="A" />
+        <div id="form_campos"></div>
+        <div class="form_nome"><input type="text" name="nome" id="nome" placeholder="QUAL É O SEU NOME?"/></div>
+        <div class="form_email"><input type="email" name="email" id="email" placeholder="QUAL É O SEU EMAIL?"/></div>
+        <div class="form_telefone"><input type="tel" name="telefone" class="mask-fone" id="telefone" placeholder="QUAL É O SEU TELEFONE?"/></div>
+<!--         <div class="form_mensagem"><textarea onFocus="javascript:this.value=''" name="mensagem" id="mensagem" rows="4" style="width:300px; height:65px; color:#000"/></textarea></div> -->
+        <div class="quero_saber_mais"><input name="charset" type="hidden" value="iso-8859-1" />
+            <input type="submit" name="enviar" value="AGENDAR MINHA Revisão" id="enviar" class="btn" /> 
+        </div>
+        <div id="dados-resumidos-container">
+            <div id="carro-usuario" class="dado-resumido"></div>
+            <div id="versao-usuario" class="dado-resumido"></div>
+            <div id="revisao-usuario" class="dado-resumido dado-resumido-close"></div>
+        </div>
+        </form>
+    </div>
+    <div id="rodape">
+        <div id="rodape-text">Conheça mais detalhes da Revisão Preço Fixo da Ford. Revisão Preço Fixo Ford trata-se de preço máximo sugerido e é válida até 31/12/2014. Contempla a verificação de 60 itens e troca de componentes conforme descrito no Manual do Proprietário. As revisões devem ser executadas conforme o período ou a quilometragem indicada também no Manual do Proprietário, prevalecendo o que ocorrer primeiro. Para as 1ª e 2ª revisões, a mão de obra é gratuita, e para as demais revisões, a mão de obra é inclusa nos valores da tabela acima, para todos os modelos. Os valores desta tabela não contemplam: alinhamento, balanceamento e itens de desgaste natural. Peças originais Ford com 01 ano de garantia, se instaladas em um Distribuidor Ford. Para mais detalhes sobre os itens que compõe sua revisão, consulte o seu Manual do Proprietário. Verifque se seu veículo está incluso em um recall. Preços retirados do site www.ford.com.br. Preços sujeitos a alteração sem aviso prévio.</div>
+    </div>
+</div>
+
+<script language=javascript>
+function validar() {var valido = false;with(document.form) {if(nome.value.length == 0){valido = false;alertify.alert ('Por favor, preencha o campo nome para que possamos entrar em contato com você.');}else if(email.value.length == 0) {valido = false;alertify.alert ('Por favor, preencha o campo email para que possamos entrar em contato com você.');}else if(telefone.value.length == 0) {valido = false;alertify.alert ('Por favor, preencha o campo DDD + Telefone para que possamos entrar em contato com você.');}else {valido = true;submit();}return valido;}}     
+</script> 
+
+<script language="javascript" src="js/jquery.maskedinput-1.3.js"></script>
+<script type="text/javascript">
+(function($) {
+$(function() {
+$('.mask-fone').mask('(99) 99999-9999' ) ; //telefone
+});
+})(jQuery);
+</script>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script src="js/plugins.js"></script>
+
+    </body>
+</html>
